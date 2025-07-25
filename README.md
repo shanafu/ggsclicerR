@@ -1,7 +1,7 @@
 # ggsclicerR
 This repository is for the 'ggslicer' R package.
 
-Scientific visualization is an integral aspect to sharing research data. In the field of data science, data is commonly visualized with the ‘ggplot2’ package in R. ‘ggslicer’ is a package available for both R and python that efficiently wrangles imaging data into a data frame to be utilized by ‘ggplot2’ and ‘plotnine’ for image visualization.
+Scientific visualization is an integral aspect to sharing research data. In the field of data science, data is commonly visualized with the ‘ggplot2’ package in R. ‘ggslicer’ is a package available for both R and python that efficiently wrangles imaging data into a data frame to be utilized by ‘ggplot2’ for image visualization.
 
 Built around the ‘SimpleITK’ image processing framework, ‘ggslicer’ is able to process 2D and 3D images such as DICOM, Nifti, MINC, and Analyze.
 
